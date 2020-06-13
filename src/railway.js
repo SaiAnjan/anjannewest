@@ -54,6 +54,9 @@ function Pepper() {
         <li>Should it be a voice/chat/GUI based interface which can facilitate quicker interactions</li>
         <li>Maybe include the indoor navigation directory/map</li>
       </ul>
+      <a href="https://assistant.google.com/services/invoke/uid/000000721f05ecc6?hl=hi">
+        🅖 Ask इंडियन रेलवे इन्क्वारी to Google assistant
+      </a>
       </div>
     </article>
   );

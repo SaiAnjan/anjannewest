@@ -6,7 +6,7 @@ import { works } from './cardinfo.js';
 import { ux } from './cardinfo.js';
 import { accessibility } from './cardinfo.js';
 import { ui } from './cardinfo.js';
-import resume from './Assets/resume.pdf';
+import resume from './Assets/Resume.pdf';
 import process from './Assets/Images/process.png';
 
 function App() {
